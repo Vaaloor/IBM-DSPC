@@ -6,4 +6,4 @@ Capstone project: The capstone project consist on determine what Buenos Aires's 
 
 Clustering Toronto Neighborhood: Similar to what we made on the Capstone Project, in this project we clluster the Toronto City' neihborhoods based on the similarity of its venues. Geolocation data and Foursquare API was used.
 
-Other: All the others files are final assignment of some of the courses
+Other: All the others files are final assignment of some of the courses.
